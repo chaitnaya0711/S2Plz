@@ -1,4 +1,4 @@
---Note this code is a 1 year old 
+--Note this code is a 2 year old 
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
 
